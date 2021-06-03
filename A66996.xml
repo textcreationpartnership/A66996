@@ -1,0 +1,1593 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Infant baptism, and the first query thereupon whether all parents how notorious soever for their deboysery, are priveleged upon account of their own baptism, to present their infants thereunt[o] : the negative is here maintained.</title>
+            <author>Woodward, Ezekias, 1590-1675.</author>
+         </titleStmt>
+         <extent>Approx. 89 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66996</idno><idno type="EEBO-CITATION">18229133</idno>
+  <idno type="VID">107211</idno>
+  <idno type="EEBO-PROQUEST">2240902449</idno>
+  
+            <idno type="STC">Wing W3490</idno>
+            <idno type="STC">ESTC R39143</idno>
+            <idno type="OCLC">18229133</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A66996)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107211)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1138:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Infant baptism, and the first query thereupon whether all parents how notorious soever for their deboysery, are priveleged upon account of their own baptism, to present their infants thereunt[o] : the negative is here maintained.</title>
+                  <author>Woodward, Ezekias, 1590-1675.</author>
+               </titleStmt>
+               <extent>38 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Cripps ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Woodward by Wing and NUC pre-1956 imprints.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Infant baptism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107211:1"/>
+            <p>INFANT BAPTISM, AND The First Query thereupon.</p>
+            <p>Whether all parents how notorious soever for their De<g ref="char:EOLhyphen"/>boysery, are priviledged upon account of their own Baptism, to present their Infants thereunto.</p>
+            <p>The Negative is here maintained.</p>
+            <q>
+               <p>The Promise is unto you, and to your Children,</p>
+               <bibl>Acts 2. 39.</bibl>
+            </q>
+            <q>
+               <p>Nothing is more disorderous, and contrary to the mind and instituti<g ref="char:EOLhyphen"/>on of Christ, than that they should be <hi>implanted,</hi> as visible mem<g ref="char:EOLhyphen"/>bers <hi>into Christ Body,</hi> of whom we cannot have the least hope, they will ever prove <hi>his Disciples,</hi> Therefore we make Baptisme, a very pageantry and mee mockery, if there be none of the kindred pious and godly, that will undertake for the education of this Infant in the Nurture and admonition of the Lord,</p>
+               <bibl>
+                  <hi>Cal. D. Joen. Knoxo Scoto Epist.</hi> 285.</bibl>
+            </q>
+            <q>
+               <p>It is an oversight that cannot be excused by Stewards in Gods house, admitting to Baptism all Infants whatsoever, how rude, ignorant and wicked soever their Parents are,</p>
+               <bibl>
+                  <hi>Ames.</hi> of <hi>Consc.</hi> Book 4. Chap. 27.</bibl>
+            </q>
+            <q>
+               <p>
+                  <hi>Dum sacramenta violantur ipso cujus sacramenta sunt violatur,</hi> When the Sacraments be misused, God himselfe whose Sacraments they be, is abused,</p>
+               <bibl>
+                  <hi>Hi<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r. in Mal.</hi> first Chap.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Henry Crips,</hi> living in Popes-head-ally, neer <hi>Lombard street,</hi> 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:107211:2"/>
+            <pb facs="tcp:107211:2"/>
+            <div type="query">
+               <head>The first Section And Quere.</head>
+               <p>Whether all Infants are to be admitted to Baptism by priviledge of their Parents Baptisme, though they are unreasonal and wicked, wholly ignorant of, and strangers to the Covenant of Grace by Jesus Christ, contented, and choosing ra<g ref="char:EOLhyphen"/>ther to continue such.</p>
+            </div>
+            <div type="answer">
+               <head>The Negative.</head>
+               <p>That these Infants born of such Parents are not to be admitted to Baptism is under our maintenance.</p>
+            </div>
+            <div n="1" type="chapter">
+               <head>CHAP. I</head>
+               <p>
+                  <seg rend="decorInit">B</seg>Efore we enter upon this, we would premise some things, first in reference to our selves, to prevent, if may be, jealousies and misconstructi<g ref="char:EOLhyphen"/>ons, as to us, and these matters; one or two things also, relating to the Question here un<g ref="char:EOLhyphen"/>der debate. First then.</p>
+               <pb n="4" facs="tcp:107211:3"/>
+               <p> We are not ignorant that some of the best Learned and Godly Divines, Mr. <hi>Calvin</hi> beyond the Seas, and at home a<g ref="char:EOLhyphen"/>mongst <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>1</label> us excellent <hi>Perkins, Amesius,</hi> (we will name no <note place="margin">Gal. 3. 8. <hi>Amesius</hi> lib. 4. cap.</note> more) hold for the <hi>Affirmative,</hi> That the Children of <hi>wicked Christians,</hi> though born in Fornication, may be baptized: But then, which the Reader should observe. That learned man gives two Cautions for s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>curing the Church, as to the bringing up these Children in the <hi>Nurture</hi> and <hi>Admonition</hi> of the Lord, which were never to this day observed, so far as we have heard: and we have very little or no hope at all, that ever these can be observed. So then, we hope, though we do oppose this <hi>Tenent,</hi> That all Infants are <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o be admi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed to Bap<g ref="char:EOLhyphen"/>tism, yet we shall not oppose the drift and intent of these Ex<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llent Men, which und<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ubtedly was, That all things be done in the Church of Christ Stewards like, <hi>decently</hi> and <hi>in order:</hi> For since the Sacrament of Baptism, as well as that of the Lords Supper, is a badge to sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> separation from the world, all profane societies therein; and to signifie our Com<g ref="char:EOLhyphen"/>munion one with another visibly in the profession &amp; confessi<g ref="char:EOLhyphen"/>of the Faith, as our spiritual Un<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on and Communion with Christ our <hi>Head</hi> mystically; Therefore the administration thereof should be such, as should suit the Nature of the Ordi<g ref="char:EOLhyphen"/>nance, and serv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the end of it: And this cannot possibly be, as we conc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ive, unlesse these Children born of debauch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Pa<g ref="char:EOLhyphen"/>rents, and now admitted to Baptism, be taken out of the hands of those Parents, and committed into the hands of those that are found faithful. And this be spoken in the first place, That the Cautions or Provisoes these Godly Men have put in here, <hi>That the Church of Christ may have no detriment,</hi> may be as well observed, as their holding for the Affirmative is. <hi>That all</hi> Children born in a Church are to be baptized there<g ref="char:EOLhyphen"/>in.</p>
+               <p>We do heartily professe our shallowness, that we cannot <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>2</label> each, that dist<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nction we find made of a Church: there is <hi>Eccl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sia, locens &amp; Ecclesia ut ens</hi> though we think the English of it i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, That in what part soever of the world, the word of God is purely taught, there a Church is; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd yet <hi>Ecclesia utens</hi> the Church indeed, which maketh an holy use and faithful
+<pb n="5" facs="tcp:107211:3"/> improvement of all that was spoken to their ears: But we would adde a third, there is an <hi>Ecclesia abutens,</hi> visible eve<g ref="char:EOLhyphen"/>ry where, which abuseth what they hear, wresting and per<g ref="char:EOLhyphen"/>verting of it, as they do all the Scriptures to their own de<g ref="char:EOLhyphen"/>struction: and these will be called a Church too, a malignant Church say we, being declared enemies to the crosse of our Lord Jesus Christ, and that their Children are not to be ad<g ref="char:EOLhyphen"/>mitted to baptism is our perswasion and we shall tell you in all humlity, we hope, what ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hled us to this perswasion, and confirmed us therein.</p>
+               <p>In the third place, this we suppose may be urged against us <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>3</label> also. That we meddle in matters belonging not to us; this pertains to the Ministers o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Christ, who are, or who are not to be admitted as aforesaid.</p>
+               <p>To this we humbly reply, That though this belongeth pri<g ref="char:EOLhyphen"/>manly and chiefly to the Ministers, yet not wholly and solely: unto them, bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to them also who are by th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> good hand<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of God with the word of his grace, <hi>add<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d to the Church</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd now in Gospel-Communion with Him. These will, with their Pastors leave, which they have, and indeed reasonably it cannot be denyed unto them, s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e to it, with all their ey<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, and all little enough, and be careful with all their care, That those Ordinances of Christ be k<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pt pure, and given forth to them, who can make out their right and title there<g ref="char:EOLhyphen"/>unto; and not to Dogs and Swine, unclean and fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thy ones, that do wallow in all the polutions of the wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ld, while yet they profess themselves Be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ievers, D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sciples and Saints, but in works they d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ny Him, being abominabl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and disobedient, and to every good work reprobate. Nor to these neither, who, though not so soul and n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ysom as the former, but to the eye pretty fair and clean, yet, known enemies to the Cross of Christ, m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nding earthly things, turning their backs upon the Ordinance of p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ching, which is the Charriot that carries Chri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t up and down the world, and setting their faces stedfast<g ref="char:EOLhyphen"/>ly to the Font and Table of the Lord: We think it our Duty, nay we had almost said, we know it so to be, to do in these matters of Christ as aforesaid; else how can we answer the Charge of the Lord unto us (having wrought so graciously
+<pb n="6" facs="tcp:107211:4"/> for us) to do our utmost to promote the word of his grace, that it may run and be glor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fied, and that all which obstructeth the way thereof may be removed out of the way; and nothing so much obstructive in our fight as these, more then rude, very barbarous intrusions, made upon the <hi>Font</hi> and the <hi>Lords Table.</hi>
+               </p>
+               <p>But is not this some intrusion upon the Ministers Office? <milestone type="tcpmilestone" unit="unspecified" n="1"/> surely no; for God forbids us to intrude there; The Lord hath used him as an instrument in his hand, to bring us over to Himselfe.</p>
+               <p>And now what should we do for the Lord and for the ser<g ref="char:EOLhyphen"/>vants of the Lord? we stand through the supply of the spirit, ready gift in our spirits, to do Him all the service we can, and not the least disservice for a world: and we know not how to perform this service any other way, then in being <hi>helps</hi> un<g ref="char:EOLhyphen"/>to Him, to help on the work of the Lord in our own and o<g ref="char:EOLhyphen"/>thers hearts, and the Interest of Christ there, and, if we would, through th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> world, as becommeth <hi>fellow helpers to the truth,</hi> That we may shew forth the praises of Him, who hath called <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> out of Darkness into His <hi>marvellous</hi> Light. As for ruling we meddle not with it, it is the halfe of His Office, and as our duty is, we leave it to him; onely we humbly, and as be<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ometh, give our advice, being called there unto, with submis<g ref="char:EOLhyphen"/>sion still to better judgement; and all this cannot but be well pleasing to him that desires and endeavours to walk before God in all pleasing: i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is a sore charge in our opinion, which the old Disciple layeth against <hi>Diotrophes,</hi> he would refuse to take in, and take upon him to cast out, as he pleased, giving no account of his matters, what he pleased h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> did, and he did all, and not any other with him, so the Church, all the fellow helps to the truth there, stood as they were accounted by Him, but as <hi>Cyphers;</hi> above an Apostle he was in his own concei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. The beloved <hi>Disciple</hi> little less then <hi>stigmatizeth</hi> him for this; for he sets the mark of a wicked man upon him vers. 11. <hi>an e<g ref="char:EOLhyphen"/>vil man he did never see God.</hi> Indeed he q<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e forgot the practice of his betters (though he would seem to be better then they, and in authority above the Apostles) as alway<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, the worse a man is, the prouder he is, and <hi>Diotrophes</hi> like; The
+<pb n="7" facs="tcp:107211:4"/> Apostles did not do so, though without presuming, they might have taken as much upon them in Church matters, as any who<g ref="char:EOLhyphen"/>soever, being guided by an infalliable spirit, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d carried (such we have heard is the imports of the word) <hi>as in the arms of</hi>
+                  <note place="margin">2 Pet. 2. 21.</note>
+                  <hi>the holy Ghost.</hi> Yet these Apostles would do nothing, no not in the most ordinary matters, but adviling first with the Church: As in the choice of Deacons to take the oversight of the poor. (As office is then in season, and very welcome to the Church when they see the need of it) <hi>The twelve called</hi>
+                  <note place="margin">Acts. 6. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note>
+                  <hi>the multitude of the Discipl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s unto them.</hi> And if in those matters of so low conc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rnment, in comparison, they would consult with th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Church, How much more in such matters as so highly rela<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e to Christ and His Church; in the giving forth the S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>als of his Body and Blood. Now truly Sir, we must crave leave to speak freely here, and tell you what we think, That you and your Brethren of your way and perswasion do take too much upon you: we cannot tell whether you do advise with any one godly Man in your parish about the ordering of Church matters: possibly if you did—but we forbear, onely let us remember you, counsel does well here also, <hi>&amp; plus viderit oculi quam oculus:</hi> Therefore we cannot forbear to tell you, so much <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e love you, how that learned man conscionates the sons of men, that are ex<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lt<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d in government over their brethr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, that they take heed of a <hi>lifted up spirit,</hi> the <hi>greatest closer of the heart against the truth of</hi>
+                  <note place="margin">Mr. <hi>Owen</hi> of Fol. <hi>pag.</hi> 72.</note>
+                  <hi>God.</hi> He hath promised to teach the <hi>humble</hi> and the <hi>lowly in mind,</hi> the proud <hi>He beholdeth afar off.</hi>
+               </p>
+               <p>Therefore Sir, we shall endeavour to hold forth our pra<g ref="char:EOLhyphen"/>ctise <milestone type="tcpmilestone" unit="unspecified" n="2"/> as to these matters, and hold fast thereunto, as <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>enatious<g ref="char:EOLhyphen"/>ly to our power, as you read he did the Ship, when his arms were c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t off, he held it with his teeth, so we with our hearts do as well, and hold as fast.</p>
+               <p>You may be pleased to remember withal, your own charge upon us, and what weight it must needs carry with us, give me Scripture ground for your practise, else I shall count it but a meer tansie and phantastick practise. And truly well you may so do, if we cannot shew you the rule by which we pra<g ref="char:EOLhyphen"/>ctise, and order our doings, and this from the Scriptures of
+<pb n="8" facs="tcp:107211:5"/> God. But yet you see we had gone on after our m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nner and said nothing till you charged us to speak and give you the rea<g ref="char:EOLhyphen"/>sons of our doings. We will close this with a Comparison, As in a Lords house on earth, there is but one Seward by office, yet every child and servant in the house are, or should be stew<g ref="char:EOLhyphen"/>ards by fidelity: so of a Church in a Parish there is but one Steward by office, yet every one is bound upon account of their Stewards-like fidelity to have a common ca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of the ho<g ref="char:EOLhyphen"/>nour and welfare of Gods house. <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>4</label>
+               </p>
+               <p>This more we would say for our selves, If we should be thought to deal too strictly with your Believers, Disciples and Saints, we are to be understood speaking of those Believers at large, who can make no other proof of their Faith, but that their faces were sprinkled with water: nor that they are D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s<g ref="char:EOLhyphen"/>ciples and Saints, but in your account onely, and their own, because you call them so, and so deal forth unto their little ones, and to themselves at the Lords Table: Now you know a bare name without a real thing, is a most ridiculous thing. He that hath <hi>Name</hi> and <hi>Thing, Form</hi> and <hi>Power</hi> of Godlinesse. he is the right man, the true Christian. Yet be it known to you and them, and all men, we are more prone to mourn over them, then to laugh at them: We look not at them with con<g ref="char:EOLhyphen"/>tempt, but with compassion: nor shall we bear witness a<g ref="char:EOLhyphen"/>gainst them, or your dealings out to them, in p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>int of Church administrations, in words, which our own spirits, too prone to contempt and contumely, but which holy Scripture sug<g ref="char:EOLhyphen"/>gesteth in <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>5</label>
+               </p>
+               <p>And in the last place, If any thing be spoken by us unbe<g ref="char:EOLhyphen"/>comming the meanness of our persons, let it be understood as it is meant, and intended against Mr. <hi>Humphreys</hi> onely (and those fully of his way and judgment) who hath de<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lt so rudely (to say the least) with our blessed Lord and Mast<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r in Hea<g ref="char:EOLhyphen"/>ven.</p>
+               <p>To this work now in the Strength of God we will gird up <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>6</label> our selves, and as he shall enable, open our mouths and speak. And yet we would speak one word more for our selves, you, have laid this charge upon us to give you an account of our doings, and indeed to us properly it doth belong, for if we spel
+<pb n="9" facs="tcp:107211:5"/> should not, who should? being in a brotherhood, and Go<g ref="char:EOLhyphen"/>spel communion together; And yet be it known unto you, This we do without the least reflection upon others, of whom we have an honourable account pertaking of the s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me per<g ref="char:EOLhyphen"/>sons Faith with us, though not in a fellowship with us, being not perswaded in their hearts to that thing. Notwithstanding we acc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>unt them Saints, and so fit matter for a Church, vi<g ref="char:EOLhyphen"/>sible Saints, yet have they not the formality of a Church till they shall joyn themselves with Gods people, Ti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l this be, Saints they are, as is meet for us to judge, but as others do here and there and every where, scattered up and down the face of the earth, like scattered stones in the streets, or tim<g ref="char:EOLhyphen"/>ber felled in the woods, as yet there is neither wall made up nor frame erected, to use precious <hi>Hookers</hi> words. But they cannot, to our seeming, make up a visible communion, nor pertake of Gospel Ordinances, till they are in communion and Gospel fellowship one with another. This invisible com<g ref="char:EOLhyphen"/>munion by Faith makes up the Church Militant taken mysti<g ref="char:EOLhyphen"/>cally; and it is but one in all the world. But the Church we are to attend, must be visible, so many as may comely meet in on<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> place, who as they have the right to all ordinances, so they <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay enjoy the use of them in Christ His order; but these must be joynted and imbodied first, and then eng<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge them<g ref="char:EOLhyphen"/>selves as members one of another, to promote the good of the whole, or else members actual<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y they are n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, nor can they b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> called a <hi>Body</hi> any more then poll<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>shed stones and hew<g ref="char:EOLhyphen"/>en timber how comely soever p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>epared, can be called an <hi>House,</hi> bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> when they are compacted a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d conjoyned toge<g ref="char:EOLhyphen"/>ther, and the whole frame reared, then it is an <hi>House:</hi> so when we are joyned together and walk as friends up to our rule in Gosp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l communion then we may be called a <hi>Body;</hi> And this be said to assure, we censure not others in t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e least tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are not joyned with us, and we hope they are as f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r from censuring us; And so we proceed towards our work.</p>
+               <p>Y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t here also we shall promise th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, That because thi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> q<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>stion <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>7</label> more then leans, it bears hard upon a <hi>National Church,</hi> That we <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re as the J<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ws were a Church, al<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> holy, be<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>g <hi>Be<g ref="char:EOLhyphen"/>lievers, Disciples</hi> and <hi>Saints,</hi> for we are bapt<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>z<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, we shou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d
+<pb n="10" facs="tcp:107211:6"/> in due orde<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, be clear of this point first, but that we have nei<g ref="char:EOLhyphen"/>ther time for it, nor can we think our selves sufficient to it, yet we crave leave humbly to give our opinion by the way and in passage only, That although we do account all <hi>England</hi> a Church and every parish there may have the same denomi<g ref="char:EOLhyphen"/>nation with the whole, being an <hi>homogeneal</hi> part of the same, (though we think it more proper to say, A Church may be in a Parish rather th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the whole Parish a Church) yet let <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> pass for this time, every Parish is a Church in N<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me, else we should make the State of <hi>England,</hi> as we conceive, the same with a faithless and <hi>Pegan</hi> State, whereunto the word of Gods grace never came, the light of h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s glorious Gospel never <note place="margin">See Chap. 6.</note> shined: And yet we cannot think that the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> is as the Church of the Jews was, but a great difference betwixt them, which is not a time or place here to set down, because we study brevity: But indeed our thoughts were ever since we could, through grace, give Law unto them by the Scriptures, That to be of a <hi>National Church,</hi> and to be of the World are equivolent tearms, and of the same import: and therefore to be of such a Church (as we can pretend no more) gives us no more right to the Seales of the Covenant, then that we are of the World, but of this hereaft<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r. Yet because your selfe Sir, and others, Mr. <hi>Baxter</hi> and the like, are so confident herein, That <hi>England</hi> is as the Jewes were, a <hi>Na<g ref="char:EOLhyphen"/>tional Church,</hi> and are so ready girt to dispute with whom<g ref="char:EOLhyphen"/>soever, so say you, and so saith Mr. <hi>Baxter</hi> in his Book for Baptism, <hi>I challenge any, and undertook to make good against him,</hi> saith he, and so boastingly, for he is, as you are, a very confident man, as if he had won the field, and had been putting off his harness: We were saying, because you are so confident herein, and can produce Scripture to bear out your confidence, we oppose not, not against Scripture sure, when, For with your patience, we crave leave to say, That were that we see it, only this we would humbly beg of you, That you would do your utmost to procure for us a <hi>national Discipline,</hi> such as the Jews had by Gods own appointment being a Nati<g ref="char:EOLhyphen"/>onal Church; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd the difference would be as soon ended as be<g ref="char:EOLhyphen"/>g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n; nor need you trouble your selvs with Scripture allegations,
+<pb n="11" facs="tcp:107211:6"/> Discipline in force amongst u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> many of these who now <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>oud on with the throng to the Lords Tabl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, being Believers, Di<g ref="char:EOLhyphen"/>sciples and Saints in common account, should be, before the next moneth come about, cut off with the rod of that Disci<g ref="char:EOLhyphen"/>pline, and more then like some of their Ministers made longer by the neck, or shorter by the head. He that <hi>blasph<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>meth</hi>
+                  <note place="margin">Lev. 24. 16.</note>
+                  <hi>the name of the Lord, shall surely be pu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ath:</hi> We hope and are confid<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt you have none such a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ongst your Commu<g ref="char:EOLhyphen"/>nicants <note place="margin">Numb. 15.</note> who revile their God, piercing the honour and glo<g ref="char:EOLhyphen"/>ry o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> hig<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and this willingly and w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lfully. Y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>quire you may whether some of those you call Beleevers, D<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ciples and Sa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nts fear <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to speak <hi>amiss,</hi> of this glorious and f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ul <hi>Name,</hi> the <hi>Lord thy God,</hi> blaspheming the way of Truth, which is so contrary to their own: surely th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>se would be <hi>cut off</hi> with the rod of that discipl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne; und<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rsta<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> how you w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lieve they would be cut <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ff. The cu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sed swearer woul be cut off, in whose mou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h that blessed <hi>Name</hi> is not heard bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in an oath yet b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing a baptiz<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, a w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>shed heathen, he may hav<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> admitta<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with the <hi>Hear<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> to pass on to the Lords sable: this would not b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> so, if w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> had th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t National <hi>Discipl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ne.</hi> He that presumptio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> prophaneth the Lords day, and he is a <hi>Legion,</hi> for he is <hi>man<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> common with those n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>minal Beleeve; D<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ciples and Saints, as is the high way, or walking in the streets.</p>
+               <p>H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat test<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fieth <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> against his Brother, the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ame Law for him, as of a M<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rer; a sin very common amongst <milestone type="tcpmilestone" unit="unspecified" n="3"/> these Beleeve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, D<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ples and Sa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, whos<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> word we must <note place="margin">D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ut. 19.</note> take, that s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch they are, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y will speak truly of themselves; though falsely of their brother.</p>
+               <p>A son of <hi>B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lial, a Glu<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>on and a Drunkard,</hi> a Legion too, <milestone type="tcpmilestone" unit="unspecified" n="4"/> for he is many, and helps to make up the number of these B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>evers, <note place="margin">Deut. 21.</note> D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sciples a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Saints</p>
+               <p>Idola<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ers must com<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nto <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>his list also, <hi>Deriders,</hi> as once <milestone type="tcpmilestone" unit="unspecified" n="5"/> they were, so now of the Lord Christ and h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s <hi>Word:</hi> coveto<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s <note place="margin">Luk. 16.</note> men, <hi>minding earthly things.</hi>
+               </p>
+               <p>The man that is worse then an Infidel, must fall under this <milestone type="tcpmilestone" unit="unspecified" n="6"/> rod o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>scipline too, he may l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h his l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, but not with<g ref="char:EOLhyphen"/>out a sharp censure, for he provideth no more for the Souls
+<pb n="12" facs="tcp:107211:7"/> of his family then he doth for the cloathing the back of his Oxen and Swine; It is a question whether he knows his own soul, that it serves him for any other purpose, then to keep his body sweet: Yet put him to the question, are you a Christian? do you know Christ? do you believe in his Name he wil say yes to all this, yet knows nothing of what he saith.</p>
+               <p>O Sir, but we forbear Christians without Christianity, or Chr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>stiany without Christ, Beleevers without Faith, Disci<g ref="char:EOLhyphen"/>ples, that is, followers of Christ, learners of him, and yet have learn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> nothing from him; as if we should say, Disciples with<g ref="char:EOLhyphen"/>out Discipline, Saints in name, Swine indeed, as very D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as <hi>Judas</hi> wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> one. We crave leave a little further to press on our suit for a <hi>National Discipline,</hi> for we find our spirits not a little stirred within us; when we have consul<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed with <hi>Numb.</hi> 25. and <hi>D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ut.</hi> 13. and therewith have compared false Teachers not a few amongst us, <hi>who thrust <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ut of the way,</hi> if not by your Doctrine, yet by their pract<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce, <hi>the Lord our God commandeth us to walk in,</hi> we do question the matter, whether many that go for heads and gu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>des of the people should not be hanged up before the Lord, against the Sun, had we that Discipline in force, as those were in the fore<g ref="char:EOLhyphen"/>mentioned places. Dear Sir, help on what you can a National D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>scipline as you do a National Church, for you ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> dispute it with any man living, and carry it too, That a National <note place="margin">
+                     <hi>Cal. Inst. lib.</hi> 4. <hi>cap.</hi> 12. <hi>Ames. de Consc. cap.</hi> 29. Jer. 29. 22.</note> Church and a National Discipline should go together: Deale with Mr. <hi>Baxter</hi> about this matter, and take your good friend honest Mr. <hi>N.</hi> to you, <hi>vis unita fortior,</hi> like a trebble cord, and little enough to help on this despised thing <hi>Discipline,</hi> yet till this be, never look to discern the face of a Church all over the Nation; that whic<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> may be seen, it will look like the sluggards fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ld: You'r be easily entreated to this service, you would be rid of those <hi>Vophines</hi> and <hi>Phine<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>asses,</hi> these <hi>Zedekiahs</hi> and <hi>Ahabs,</hi> whom the King of <hi>Babylon roasted in the fire;</hi> you would be rid of bru<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tish Pastors, who <hi>seek not the Lord;</hi> and of those Priests, who <hi>were gone away far from the Lord,</hi> when <hi>Israel</hi> went astr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, following the Com<g ref="char:EOLhyphen"/>mandements. So then among the drove or heard of vile Priests your great Champion, for your cause would be cut off
+<pb n="13" facs="tcp:107211:7"/> with the rod of that Discipline, understand it how you please, he should be cut off certainly: And more then probable you would have <hi>Simon Magus</hi> the Beleever removed too, and <note place="margin">Acts 8. John. 6.</note> those revolted Disciples, who pluckt away the shoulder, and stopped their ears against the Discipline of Christ; and <hi>Judas</hi> the Saint discovered now, all these you would have removed; those also whose <hi>Doctrines eat like a Cancer;</hi> and whose Examp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e spreadeth more then a plague sore, you would have <hi>Dem<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> the wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ldling removed too: why endeavour what you can, that with your National Church, we may have a National Discipline, <hi>quid enim t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ntasse.</hi> If you shall forbear to do this, you are never like to see the face of your Church: And if you endeavour it, and effect it, you will fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de no other disadvantage but this, which ye<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> we h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> you will not call so, you shall have fewer <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sts to profane holy things; your gu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sts next day at the Lo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds Table wil be fewer too, <hi>Magus</hi> your Believer he is gone; all <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Disciples without Discipline they a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e gone too; <hi>Demas</hi> now he is discovered will not come at you, not will your holy Brethren, holy wi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>out ho<g ref="char:EOLhyphen"/>liness, but they w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re born and baptiz<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d in <hi>England</hi> these will not be admitted neither, the Communicants now will be the thinner, no matter they will be the better, and the more comely for such a Table, and such a glori<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s presence: you little think what good you should do, if you help on a Natio<g ref="char:EOLhyphen"/>nal Discipline, that we might have both, or neither, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, of these things enough.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. 2.</head>
+               <p>VVE are now arrived at Baptism, which have <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>st the <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>1</label> Faithful of the Lord in all ages, specially in this age, as dear as did the preaching down Circumcision cost the dear servants of the Lord in these Primitive times. <hi>If I yet preach</hi>
+                  <note place="margin">Gal. 5. 11.</note>
+                  <hi>Circumcision</hi> why do <hi>I yet suffer Persecution;</hi> then is the <hi>Fence of the Crosse ceased,</hi> said holy <hi>Paul.</hi> So let a Minister give forth Baptisme to all, he shall suffer no persecu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion from any, nay he shall have all friendly usage, there is not a Son or Daughter of <hi>Belial,</hi> not a <hi>Nabal</hi> in the parish, but will make
+<pb n="14" facs="tcp:107211:8"/> him a feast like a King, and give him something else beside: but if he refu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e here this <hi>Nabal,</hi> this Son of <hi>Beli<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l</hi> will perse<g ref="char:EOLhyphen"/>cure him so far as he dares to the death if he could; surely, this kind o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> people should not be pleased in this matter, if they be it is more th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n doubtful the Lord will be highly dis<g ref="char:EOLhyphen"/>plea<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d.</p>
+               <p>But to our question, whether Infants of Days, being born <label type="milestone">
+                     <seg type="milestoneunit">§. </seg>2</label> of parents who by ignorance of the nature of Baptism, or what is sign'd for se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>led it cannot be but <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o Faith) unto them being Children in understanding, are to be admitted u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>to Bap<g ref="char:EOLhyphen"/>tism<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>? We should for the clearing of the way resolve this question fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st, w<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ther on S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>crament is of greater emenency then the other? <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut me<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ning <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s whether l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ss is required of a parent in giving <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> reaso<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the hope that is in him pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>senting his Infant to Baptisme, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n when he presents himself to the Lords Table?</p>
+               <p>The reason why we should put this question is, because we observe <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Baptisme is administ<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d by those, w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o have not these many years given forth the Lords Supp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r to their people, nor to this day can be perswaded so to do. We c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nfess <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eartily we understand not this usage, yet we judge it not, nor can we fully approve <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat distiction of a <hi>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ar</hi> and a remote <hi>right;</hi> But this we are assured, that one Sacrament is not of greater eminency then nother: and if the Infa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed by the Parent be admitted, the Parent an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n after should be admitted to the Lords Table, as we conceive. But let this pass, with allowance of some time for consideration, whether we have any such custome, or the Churches of Christ, grounded u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on the Scriptures of God?</p>
+               <p>So now to the Question, which we shall resolve in the Ne<g ref="char:EOLhyphen"/>gative, <hi>That Infants of Days born of Parents very Children in understanding, w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lful<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y such, and then very wicked, are not to be admitted to Baptism.</hi> Yea that hold the Affir<g ref="char:EOLhyphen"/>mative, we humbly conceiv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, ye hold it from hence, They are bo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n in a Church, and so to all Church priviledges. The same with you, saith Mr. <hi>Baxter,</hi> we all as did the Jews (see how <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ard it bears upon a National Church, the very support and <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of is) <hi>enter into the Church as Members in Infancy,</hi>
+                  <pb n="15" facs="tcp:107211:8"/> So saith your worthy brother also, in his late book for Infant Baptism, ye<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he saith much more, thus he saith; <hi>How much would it co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>duce to the enlargement of the bounds of the Church visible to seal Infant membe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s by Baptisme?</hi> A little after he is pleased to give us his conceit. <hi>I con<g ref="char:EOLhyphen"/>ceive it morally impossible to rivet Christian Religion into the body of any Nation, but by the way of In<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ant Baptisme.</hi> So saith that worthy man, It is neither time nor place for us to say more then this here. That had his <hi>Asterictus</hi> wavering <note place="margin">Eph. 4. 14. 2 Pet. 3. 16.</note> and unsetled his name, shews him to be wholly unlearned in the Mystery of Godliness, and unstable like a weather-cock, turned with every wind: we mean, had he not been taught to speak what himselfe pleased, not another from, but the same with himselfe, he would have told him that <hi>Paul,</hi> a wel grounded and setl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d man sure, took another way by his Lords appointment to <hi>Rivet</hi> Christian Religion in Nations and per<g ref="char:EOLhyphen"/>sons, and not by the way of Infant Baptsme. Christ sent me, <note place="margin">Acts. 10. 48.</note> saith he, not to Baptize (that was not my maine work <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, a work upon the by) bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> my work was to preach <note place="margin">1 Cor. 1. 17.</note> the Gospel, thereby to <hi>rivet Christian Redigion</hi> in the souls and spirits of of men. Your Brother is not of this mind, for hear him ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <hi>If Christs command be to Disciple Nations, as it is</hi> Matth. 28. 19. <hi>sur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ly (to me) it implyes the practise of Infant Baptisme as the onely way likely to effect it.</hi> We may speak more to this hereafter; here only we will offer our pe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>swasion, That your B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>other mistakes hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lords command, and the way He prescribes for the <hi>Discipling</hi> the Nations, His command is, Goe preach unto the strong Nations. So you have it in <hi>Mark</hi> 16. 15. and by preaching <hi>Disciple them,</hi> for that is the onely means to <hi>river</hi> Christ and His Religion in them, and then Baptize them, and their Infants born of <hi>Di<g ref="char:EOLhyphen"/>scipled</hi> Parents. Every thing is beautiful in its due time and order: <hi>Disciple</hi> them first, <hi>Baptize</hi> them after, The Parents must have their eyes opened first, befo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e their Infan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s should have their fac<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s sprinkled: Thi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Faith, in this matter which we hold to the more firmly, because, as we suppose, it beareth upon the Scriptures of God, and the whole tenour thereof rules this Case. And though we honour your worthy
+<pb n="16" facs="tcp:107211:9"/> Brother very much, yet we cannot subscribe to his judgmant in these matters.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. 3.</head>
+               <p>BUt Sir, before we come to maintain the <hi>Negative,</hi> we take leave to set down first, how you maintain the <hi>Affir<g ref="char:EOLhyphen"/>mative:</hi> and as you desire of us, what Scripture grounds ye have for it, for we have heard and read enough without the Book. We conceive ye have but one <hi>M<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dium</hi> whereby to prove Free Admission of all Infants to Baptism; Much more you have to say, but surely all beareth thereupon, is Collateral or Reductive thereunto, That is this.</p>
+               <p>Free admission must be granted to all Infants: Your proofe <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>1</label> is, They are born of Parents, born in a Church, and bapt<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>zed there, and upon that score also accounted within the <hi>Covenant,</hi> and so have right and title to the <hi>Seals,</hi> being to be reputed <hi>holy,</hi> as to a <hi>Federal H<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>liness,</hi> an <hi>Ecclesiastical or Church Hol<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ness,</hi> from the account or esteem the Church ought to hav<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of such Chil<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ren.</p>
+               <p>We crave leave to reply to this, and humbly to give our judgement, That this Argument for b<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>izing all Children beareth upon a false bo<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tom, and pleadeth an high priviledge from a grand mistake; if we mistake no the Scriptures there in: they are the Children of <hi>Believing Parents</hi> both or <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne, (so <note place="margin">1 Cor. 7. 14. Read Mr. <hi>Carter Inf. Bap</hi> 87.</note> saith your worthy Brother too, <hi>pag</hi> 5.) and many other places, but he may mean <hi>Believers</hi> at large, all such as have been baptized) who are to be reputed hol<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, as to a <hi>Federal</hi> or <hi>Church holiness,</hi> and upon tha<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> score ad<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itted to b<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ptism. The Parents one or both can make ou<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their interest in the Co<g ref="char:EOLhyphen"/>venant of God, made with them in Christ Jesus their Lord; <note place="margin">1 Pet. 3. 21.</note> They can in their childs behalf plead for an outward b<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ptism, from their inward baptism, <hi>making answer of a good conscien<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e</hi>
+                  <note place="margin">See <hi>B<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>za.</hi> Heb. 10. 22.</note>
+                  <hi>toward God,</hi> that they are washed from en <hi>evil one,</hi> &amp; on their
+<pb n="17" facs="tcp:107211:9"/> bodies too, from a vain conversation, <hi>with pure water,</hi> the <hi>blood of Christ;</hi> upon this account a Child comes in, and is to be reputed holy, as we suppose.</p>
+               <p>But now for those Patents who knows nothing of this <hi>Covenant of Gods free grace to us by Jesus Christ,</hi> are as ve<g ref="char:EOLhyphen"/>ry strangers to it, as are they who never heard of it, and to Jesus Christ the Mediatour of the same, deny subjection to Christ and His Discipline; will have none of Him; He of a<g ref="char:EOLhyphen"/>ny shall not rule or teach them. We were saying, for these Parents Sons and Daughters of <hi>Belial,</hi> who have excommu<g ref="char:EOLhyphen"/>nicated, or thrown themselv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s out of Covenant, revolted from, forsaken or denied their own Baptism in their works and lives, presenting now their Infant to Baptism, are not to be admitted to receive the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eale thereof for them; nor is the Church to account the Children of these Parents <hi>holy,</hi> more then that Infanr holy, which was born, and then baptized a week after the Parent was ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ried. Such a Case you may hear of anon. Thus we have said t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his point, being per<g ref="char:EOLhyphen"/>swaded that so say the Scriptures of God. And so speak they also who speak and practise thereafter; whereof we have a great cloud of witnesses, too long to set down, for the time wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ld <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ail us, to tell you what you may better tell us, what <hi>Ʋ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sin, Beza</hi> in his Epistles, if we remember to Arch Bishop <hi>Grindal,</hi> what <hi>Bullenger, Bucer, Calvin</hi> have said, <q>as to this free admission of the Infants of those Parents <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Baptism, who can plead no more righ<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to the Covenant in their infants b<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>half, but that they were born in a Church, and baptized there.</q>
+               </p>
+               <p>We most hear what is repl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed to this, That though the im<g ref="char:EOLhyphen"/>mediate <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>2</label>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orefa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hers, fa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r or grandfather (so we may goe down as low <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> first Father, who was the <hi>Son of God)</hi> can give no account of their Faith, yet their <hi>Atavus</hi> their grand<g ref="char:EOLhyphen"/>fathers father, he coul give a sufficient reason of his Faith (wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> can tell <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>?) yet so you tell us; and truely it is not of light account with us, for we remember, as hath been told us, That jud<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cious <hi>C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lvin</hi> in his Responsary Letter to <hi>Knox,</hi> th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> honou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Sco<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tish Nation, pleadeth fre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> admission for <hi>Bastards, Infants born of Idolaters, Excommunicated per<g ref="char:EOLhyphen"/>sons</hi>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="16" facs="tcp:107211:10"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="17" facs="tcp:107211:10"/>
+                  <pb n="18" facs="tcp:107211:11"/> (for that was the question proposed by that reverend man to <hi>Calvin</hi> for resolution) from hence, <hi>The promise is made to thousands [of them that love me and keep my Command<g ref="char:EOLhyphen"/>ments.]</hi>
+                  <note place="margin">Past Evan.</note> And so our worthy <hi>Bowles</hi> moves for free admissi<g ref="char:EOLhyphen"/>on, upon the same ground also: But still there is provision laid in, <q>That the Church be secured as to the breeding and bringing up of these children, in the fear and nurtu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e of their God</q> in all this to our seeming, Scripture proof is wan<g ref="char:EOLhyphen"/>ting, though Mr. <hi>Calvin</hi> hath many choice things in that E<g ref="char:EOLhyphen"/>pistle worthy our ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k (we shall touch upon s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me anon.)</p>
+               <p>One thing more we read pleaded <hi>for free admission to bap<g ref="char:EOLhyphen"/>tism,</hi> by your Brother; <hi>It would make a marvellous addition to</hi>
+                  <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>4</label>
+                  <hi>the Church: what an huge company of visible Saints should we have, if this LEAVEN of Infant Baptism</hi> (so he calls it) <hi>were spread over the Nation?</hi>
+               </p>
+               <p>Truely (and give us leave to speak our mind) we can nei<g ref="char:EOLhyphen"/>ther pray to God, nor praise God for the spreading of this <hi>Lea<g ref="char:EOLhyphen"/>ven:</hi> being perswaded there is scarce a Godly Man in the Nation, that thinks not this <hi>Leaven</hi> spreads fast enough. And for the <hi>addition</hi> it makes to the <hi>Church,</hi> it is not, we conceive, considerable wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h him; it is rather an <hi>addition</hi> to the <hi>World;</hi> yet, if ye will have it a Church, it is (make the best of it, which is naught) but a <hi>National Church</hi> there, a huge bulky body, a Monster rather then a Church; and truely as we verily think, a Godly Man can never attend nor intend the growth thereof; for the more hugely it grows, the more mon<g ref="char:EOLhyphen"/>strous it is: and who will regard the growth of Monsters? He intends the growth and increase of the Church <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f <hi>the li<g ref="char:EOLhyphen"/>ving God;</hi> and dayly prayeth that the <hi>spirit of life and of glo<g ref="char:EOLhyphen"/>ry</hi> by the word of <hi>His power and gr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ce</hi> would day<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y make an <hi>addition</hi> thereunto: for he is perswaded, we think upon Scripture ground, that Infant B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ptism will never do it, never make visible Saints while the w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rld stands.</p>
+               <p>We have off<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>red our perswasion a little before, we will tell you our fear here before we close this Chapter, which is,</p>
+               <p n="1">1. That these expressions to our seeming are very unscriptu<g ref="char:EOLhyphen"/>ral, <hi>Infant Baptism rivets Christian Religion in the Body of a Nation,</hi> that is, as we understand it, <hi>in the souls and spirits of
+<pb n="19" facs="tcp:107211:11"/> men: and makes a marvellous addition to the Church:</hi> We w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re sp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aking our fears, that these expressions serve only to hold and keep <hi>POPERY</hi> within us, which is as natural to us, being born with us, as our flesh is, being <hi>riveted,</hi> and <hi>written in the heart,</hi> as with <hi>a pen of IRON,</hi> and <hi>with the point of a DIAMOND.</hi> Such sayings as these serve to bring us (natural Papists as we are) into a <hi>fools Paradise,</hi> as we use to say, making us believe we are <hi>Christians indeed,</hi> when as indeed we are but <hi>washed heathen,</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd that Christi<g ref="char:EOLhyphen"/>an Religion is <hi>riveted</hi> in us by B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ptism, whereas <hi>being tru<g ref="char:EOLhyphen"/>sted unto,</hi> for the effecting of so glorious a work, as is the ri<g ref="char:EOLhyphen"/>veting Christian Religion in the heart, it rivers nothing but <hi>Popery</hi> there, and as gross Popery as any we can readily think of, and serves on<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, as we think, being administred upon that concei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, to enlarge the bounds of that <hi>ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ignant Church,</hi> or if you like the other word better, the <hi>National.</hi>
+               </p>
+               <p n="2">2. But Read<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r, To speak a word to thee in passage, seek to taste these words, before thou dost swallow them, least thou shouldest he <hi>driven</hi> thereby according to the bent and incli<g ref="char:EOLhyphen"/>nation of thy own spirit, to make that Sac<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ament an Idol; and to think, That grace <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <hi>riveted</hi> in thy soul, b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cause water was sprinkled upon thy Body. In so thinking, thou dost ascribe that to water wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch is proper to <hi>Christ; Gr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ce is Gods crea<g ref="char:EOLhyphen"/>tur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> only;</hi> The God of all grace by H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Spi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it with His Word (in persons grown up) wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ks it in the hea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, and riv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts it the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e. All the Crea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ures in Heaven and Earth cannot c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<g ref="char:EOLhyphen"/>fer he least dra<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f Grace, It is a thing of Gods making and preserving: it is a Creation. And we think this worthy man wil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ant all this; That the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rit of grace with the word of H<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ace preached, doth <hi>rivet</hi> Christian Religion in the bo<g ref="char:EOLhyphen"/>dy of the Nation, and in the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oul of a person and to <hi>addes him to the Church:</hi> for the spirit only c<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> reach the heart, and rive<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> grace there: This <hi>riveting R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ligion,</hi> we conceive to be some in ward work, upon the inward man, which cannot be done by water which reacheth the <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> only.</p>
+               <p n="3">3. These expressions <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to us to c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st much blame, if not rep<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oach and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hame upo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> some godly Ministers, as is mee<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for us to judge of them, who con<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ci<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iously refuse to Baptize all
+<pb n="20" facs="tcp:107211:12"/> Infants, and so to spread this <hi>leaven</hi> over the Nation, thereby to <hi>rivet Christian Religion into the body thereof.</hi> They cannot do this, fearing they should pervert the righteous ways of the Lord, and charge of His mouth, <hi>Go and Disciple them first, and then Baptize.</hi>
+               </p>
+               <p>Which command reacheth the godly Ministers now, as we suppose, and bids them look to it, That those Parents be the Disciples of Christ, whose Infants they receive into the Church, and as Ministers of Christ, implant into <hi>His Body.</hi> But now these Ministers refusing so to do, this your Brothers Expression chargeth them very deeply, as we conceive; That they envy the growth of the Church, and that a dayly <hi>additi<g ref="char:EOLhyphen"/>on</hi> should be made thereunto, which we should speak tr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<g ref="char:EOLhyphen"/>blingly being so contrary to their holy minds, for they have <hi>the mind of Christ.</hi>
+               </p>
+               <p n="4">4. Nay to adde this more, if this be to be approved of, that this <hi>leaven</hi> of Baptism hath this power and virtue in it, we must approve of that old usage among us (when gross dark<g ref="char:EOLhyphen"/>ness covered the Nation, and Popery did <hi>stagnare,</hi> all the Land was but as a <hi>stinking beg there)</hi> which we have heard, and one of us have read, <hi>That if the Infant were at the point of death, and more then probable the soul would depart out of the body, before the water could be drawn out of the well, then they thought fit to tumble the Infant into the well, that it might be washed before it died.</hi>
+               </p>
+               <p n="5">5. Once more, for we take it to be a matter of infinite concernment. If this can be made good, that there is such vir<g ref="char:EOLhyphen"/>tue in this <hi>Leaven,</hi> and the spreading thereof all over the Na<g ref="char:EOLhyphen"/>tion (for as that spreads, religion spreads) Then let not this Nation onely, but all the world hasten themselves with their Children unto Baptism, thereby they shall be all <hi>added</hi> to the Church, and Religion shall be riveted in them; A glorious thing! For we cannot but think that this <hi>Leaven</hi> may be as quick in <hi>working</hi> upon grown folk, as it is in <hi>operation</hi> upon <hi>Infant Children</hi> (to remember you only of that witty di<g ref="char:EOLhyphen"/>sti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ction about <hi>Pepper,</hi> the same between <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>)</p>
+               <p n="6">6. So now this learned man is like to attain his end, he will
+<pb n="21" facs="tcp:107211:12"/> bring as many as shall believe <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s words, up to that practise of Infant Baptisme. He were a woful Parent, who having Religion riveted in himselfe by his Infant Baptism, would withhold his poor Infant from it. But to be, if it may be, more serious in this matter; Ask we now of this generation of men grown up; and of that now <hi>rising up in their Fathers stead, an increase of sinful men,</hi> and <hi>see with our eyes, and kear with our ears,</hi> that is, diligently observe and mark, they are all baptized every one of them, <hi>do they walk as those</hi> that had <hi>Religion riveted in them by their I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fant Baptism?</hi> or doth not the <hi>shew of their countenance</hi> witness against this, <hi>declaring their sin as Sodom, and hiding it not?</hi> We leave this to the godly wise to consider of it, and determine.</p>
+               <p>To shut up, The godly and wise have observed, That the Anabaptists some of them, perhaps not a few, though many of them, we doubt no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <hi>fear God above many,</hi> yet some of them place all their Religion here, as once their forefathers did in <hi>Circumcision;</hi> And may they not take advantage by these words, and be more encouraged in their way? which is as cross to this good mans scope and intendment, as are his fore<g ref="char:EOLhyphen"/>mentioned words unto the Truth as it is in Jesus.</p>
+               <p n="7">7. Surely this worthy man hath not taken a course to gain his erring Brethren; And others we fear, not halfe so conscien<g ref="char:EOLhyphen"/>tious as they, will take an occasion to put a sense upon his words, and without any wresting of them, as is quite cross to his drift and pious intention. For to our seeming, these two expressions of his, together with two or three more toward the end of his book, which we shall, together with <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>his again, meet with anon after, in our sixth Treatise, are very unscrip<g ref="char:EOLhyphen"/>tural (as we said) and may serve to promote Superstition, to<g ref="char:EOLhyphen"/>gether with abominable practises in and abour Baptism, gi<g ref="char:EOLhyphen"/>ving more to it then God allows us in his Wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d to give, which we <hi>unlearned</hi> a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d <hi>unstable,</hi> and for the most part of us, as <hi>natural brun beast<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> cannot but do wit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>out s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch words as these, which may help and enc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urage us so to do. We need even the best of us, if we c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n plead no more <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o our Christ an Religion riveted in us, but that we were bap<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iz<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, some godly Minister, that would deal as plainly, and as faith<g ref="char:EOLhyphen"/>fully
+<pb n="22" facs="tcp:107211:13"/> with us as <hi>Peter</hi> dealt with <hi>Simon Magu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> Act. 8. 23. <hi>I perceive that thou art in the gall of bitternesse, and in the bond of iniquity, though thou art baptized.</hi> The man thought not so, he was wholly gnorant of all this, he did not know his own condition, flattered himselfe, and thought all well, be<g ref="char:EOLhyphen"/>cause lately sprinkled with the water of Baptism. No more.</p>
+               <p>And so much, that you may not be deceived (for the de<g ref="char:EOLhyphen"/>ceit is deadly) in a matter of so high concernment. We have told you our thoughts of, and godly jealousie about your Brothers words. The considerate Reader may make this use of all this, To attend all <hi>Gods appointments;</hi> and in the con<g ref="char:EOLhyphen"/>scionable use and emprovement hereof, intend and bend after <hi>Baptism within upon the heart,</hi> made <hi>without hands by fire and the holy Ghost,</hi> Whereby Christian Religion is riveted into the body of a Nation, and soul of a Person, <hi>Amen.</hi>
+               </p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. 4.</head>
+               <p>WE have heard as much, as we believe was ever heard definitively spoke<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for the holdi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g out you Affirma<g ref="char:EOLhyphen"/>tive, though indeed it is acknowledged to be but his own own conceit; and yet what is mans conceit in Gods matters? Come we now to ask Counsel at our <hi>Abel,</hi> and so, if it were possible, <hi>end the matter,</hi> whether your Affirmative or our Negative relies upon the surest grounds, the Scriptures of God? We hold to the Negative, That this b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re priviledge of being born in a Church doth not instate or interest the Infant to Church priviledges; we shall a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gue it with you, as sometimes we have done among <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lves for our own satisfaction. And so we shall tell you only our perswasion as you comman<g ref="char:EOLhyphen"/>ded us, and what hath enclined us thereunto. Thus we have argued the case amongst our selves.</p>
+               <p>An Infidel or Pagan may come into <hi>England,</hi> a Church you <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>1</label>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and may thrust into your Parish or ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, as true a
+<pb n="23" facs="tcp:107211:13"/> Church as whole <hi>England</hi> is, for every <hi>homogeneal</hi> part has the same denomination with the whole; <hi>England</hi> a Church, so is every Parish also, (a Church in the Parish we deny not) And therein may this Infant be born of Infidel or Pagan Pa<g ref="char:EOLhyphen"/>rents. Y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u will not say now that Baptism belongs to this Infant by birth-priviledge. No, you will say, for there is a vast difference, if not a gulf betwixt a <hi>Christian</hi> Infant and a <hi>Pa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>an</hi> Infant.</p>
+               <p>Pardon us, good Sir, we cannot yeild you that, for that the difference may be on the Pagans side, and so the Pagan the better man, or not so bad as the Christian. The Pagan not washed on the face; the Christian not washed on the heart. The Pagan not baptized with water; the Christian not bapti<g ref="char:EOLhyphen"/>z<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d with the <hi>holy Ghost</hi> and with <hi>fire;</hi> he knows not what it is, nor does he ask after it. Christian is a glorious name, but withou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Christ it is an horrible shame. <hi>Nom n<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>inane crimen immane,</hi> was, you know the old saying, <hi>an empty name a huge crime</hi>
+                  <note n="*" place="margin">A Christi<g ref="char:EOLhyphen"/>an name gi<g ref="char:EOLhyphen"/>ven to an unchristian man, is like a Iewel in the Snout of a Swine. <hi>Sat. de pro Book</hi> 3.</note>.</p>
+               <p>But let us not pass over this was last said, The difference is on the Pagans side, he is the better man, or if not better, where neither is good, yet the Pagan is not halfe so bad a man as the Christian is, having no other plea for his Christianity than that he is born in <hi>England,</hi> for he is worse then an In<g ref="char:EOLhyphen"/>fidel; and so we shall argue in the second place.</p>
+               <p>Supposing it granted, that the Infant <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nters this priviledge by the Parents Charter; The Pagan Infant is refused because <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>2</label> the Parent was a Pagan; The Christian Infant is received be<g ref="char:EOLhyphen"/>cause the Parent is a Christian; This is not just now accor<g ref="char:EOLhyphen"/>ding to the mind of God expressed in this Scriptures (as we understand them) that in th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> matters of God, and concern<g ref="char:EOLhyphen"/>ments of Christ, there must be no accepting of persons; but here the Pagan Infant is rej<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cted, though he was born in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> because born of a Pagan Parent; The Christian Infant is accepted, and for no ot<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er reason, but because his Father is a Christian; what though, it is but in Name; for indeed he <hi>is wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>se then an Infidel;</hi> The Apostle doth instance but in one gross sin, <hi>If any man provide not for his own, he hath de<g ref="char:EOLhyphen"/>nied</hi>
+                  <note place="margin">1 Tim. 5. 8.</note>
+                  <hi>the faith,</hi> and is <hi>worse then an Infidel.</hi> It holds true
+<pb n="24" facs="tcp:107211:14"/> (saith worthy <hi>Burgess)</hi> as of that sin, so of any other gross sin; he is a Christian, a Believer, a Disciple, a Saint, he was born in <hi>England</hi> and baptized there, yet a D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>unkard, a Lyar, a Swearer, a Sabbath ba<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aker, a Covetous person, an Idolater, now he hath denied his faith (which he made some little shew of) and is worse then an Infidel: worse I yea by many de<g ref="char:EOLhyphen"/>grees worse. Because he sinneth against more light and know<g ref="char:EOLhyphen"/>ledge, as also against more holy obligations, and bonds, which are in the Christian Religion. Thus it is cleared from the Scrip<g ref="char:EOLhyphen"/>tures, that a Christian without Christ is worse then a Pagan that never heard of Christ.</p>
+               <p>We have heard, that this hath troubled the Ministers of Christ very much, whether baptism belongs to Christian be<g ref="char:EOLhyphen"/>cause born in a Church, though born in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ltery? Excellent <hi>Knox</hi> was much perplexed about th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, and writes to <hi>Calvin</hi> about it, as you may fin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it <hi>Epist</hi> 283. for he found the peo<g ref="char:EOLhyphen"/>ple very impetuous and storm-like ab<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut his matter, <hi>Baptism for their Children,</hi> as now we do; We will set you down but one passa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, when we have first set down his words, which immediately follow; <hi>Calvin</hi> having straightly charged them with this, that in the case aforesaid, they take <hi>faithful sureties</hi> to stand in the stead of these ungodly Parents, adde<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h these words or to this purpose. <hi>This indulgence we grant, our times so requiring, for we ar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, the Lord knows, but peeping</hi>
+                  <note place="margin">Epist. 284. <hi>Ames.</hi> of <hi>Consc.</hi> cap. 27. 7. 8.</note>
+                  <hi>out of the mist or fog of Popery, and the Church i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, as we may say but in her Infancy, &amp; therfore</hi> indulgendum est latius, saith he, <hi>we must give more liberty then else we would do.</hi> Now take the words we were setting down, <hi>Nih<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l mag<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> preposte<g ref="char:EOLhyphen"/>rum, There is nothing more preposterous and quite besides the rule, then that tho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e should be Sacramentally ingraffed in<g ref="char:EOLhyphen"/>to Christs body, o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> whom we have not the least hope they will <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ver become the Disciple<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of Christ, Not the least hope:</hi> Why? may we not conce<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve hop<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, that the Child baptized may prove a Disciple of Chri<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>? (to help <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut <hi>Calvin</hi> words as we can) we reply, that as the Parent may be, and as commonly he is the same we spake of even now, a Christian without Christ, a Believe without F<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>h, wor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e then an Infidel, because he <hi>setteth at naught all Gods counsel, and wil none of his reproofs;</hi>
+                  <pb n="25" facs="tcp:107211:14"/> he turns his back upon the means whereby the holy spirit conveyeth Himself into the heart and works faith there, we have not the least hope, that ever the child of such a Parent will become a Disciple. For how shall we ground our hope? or whereon? we question not what the Lord may do, nor dare we reach into his <hi>decree;</hi> we must walk by the rule of his <hi>word,</hi> so speak and so judge; and then what hope, that a Parent <hi>worse then an Infidel</hi> can or will order his child so, as t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at he may become a Disciple of Christ, <hi>quod <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>acit tale illud</hi> &amp;c. he must be a Disciple that makes a Disciple. But he that is worse then an Infidel wil make his Child a Bel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ever, when thornes bear grapes, thistles figs, or when a Lioness makes her young ones Lambs. Alas the Child grows up in the sight of a filthy conversation, and seldome hears th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> name of Christ but in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n oath, and so as the Psalmist saith, and <note place="margin">Psal. 58.</note>
+                  <hi>Hieron.</hi> also <hi>so soon as he can go, he goes astray, and so soon as he can speak he speaks lyes and oaths,</hi> as bad a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d worse, in that can he, and more deboysed then the Parents; We know this sounds harsh, <hi>worse th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n an Infidel,</hi> but how dare we be offended at it, when sad experience tells us, there are no wor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Heathens in the world then are Heathen Christians. Oh what poysonful Creatures are there where the Sun beams fall from its v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cal point in the Summ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r Solstic<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>! and at poy<g ref="char:EOLhyphen"/>sonful persons are there, where the Son of the Gospel shineth forth in is strength, yet puts not <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h strength enough, to subdue and c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nquer these poysonful ones; None in all he world worse then these, <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> halfe so bad; Sodomi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es and worse, because living under <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he means which should make them better; <hi>twice dead, plucked up by the root, naturally</hi> dead in sin, <hi>judicially</hi> dead under w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ath, because he <hi>despiseth the riches of Gods goodness, and after his hardness, and im<g ref="char:EOLhyphen"/>penitent heart treasureth up unto himselfe wrath, against the day of wrat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> And so much to prove this Christian without Christ, this Believer without Faith to be wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>se then an Infidel; therefore can plead no more right to his Infants Baptism then a Pagan can. We proceed.</p>
+               <p>In the third place we must acknowledge, we cannot learn from Scripture, That the Infant of a Christian Parent hath as <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>3</label>
+                  <pb n="26" facs="tcp:107211:15"/> true a title to Baptism as he hath to his birth right; or take it thus if you please, <hi>That Baptism is a Childs birth-right;</hi> he or she is born unto it, because born in <hi>England.</hi> The tennure of the Scripture, we think rules not the Case so; we understood it thus, and so we have been taught by our godly and learned Ministers, That we are born to nothing, but a sup of sorrow, to the bread of affliction, and to the wa<g ref="char:EOLhyphen"/>ters of adversity, and these we are instated in, yea possessed of, as soon as we are born, for we are born as a <hi>wild Asses colt,</hi> a beast, and the wildest of beasts. Indeed <hi>vain man,</hi>
+                  <note place="margin">Job. 11. 12. Mat. 12.</note> empty man, as the Devils house was (for his house is he) thinks not so, for he would be wise, and would be accounted clean also, though he be filthy and noysome all over, yea more filthy then if covered over with hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> own dung.</p>
+               <p>You may say this makes for you, for if this Infant be so filthy as filthiness it selfe, the more need it should be presen<g ref="char:EOLhyphen"/>ted to that <hi>Fountain of Christ, His Blood opened for sin and for uncleanness:</hi> For doubtless that <hi>Jordan of Christs</hi> blood serves onely to wash unclean ones; and <hi>fountains</hi> are as suit<g ref="char:EOLhyphen"/>able and desirable to such filthy and u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>clean ones as they are to <hi>thirsty</hi> ones; All his we grant you heartily, yet we hum<g ref="char:EOLhyphen"/>bly conceive it serves not your purpose; for thus we argue.</p>
+               <p>If this unclean Infant hath right to Baptsm as its birth pri<g ref="char:EOLhyphen"/>viledge upon this ground onely, because it is unclean, the Pa<g ref="char:EOLhyphen"/>gan Infant born in the Church hath as good right too, for that is as unclean also. Therefore we humbly conceive it to be thus, The Infant hath a right to baptisme, from, as we may say, his Fathers Charter, he is born of a faithful Parent, one or both; Now let his Parent shew that, which certainly he cannot do, being worse then an Infidel. And indeed the time was, when the Parent was questioned at this point, to give <hi>an account of his Faith,</hi> or a <hi>reason of his hope,</hi> and upon that account the Child was admitted to Baptism. A laudable custome, saith Mr. <hi>B.</hi> and how desirous is he it might be brought into use again, and acquitted from the abuses of it. Indeed this was our dear Saviours manner, when the Taber<g ref="char:EOLhyphen"/>nacled here on earth, he ever questioned the Parent, Woman
+<pb n="27" facs="tcp:107211:15"/>
+                  <hi>dost thou belive?</hi> Man canst <hi>thou belive?</hi> and yet like enough the children were old enough, though they might not be in case to answer for themselves. But,</p>
+               <p>This is it we would argue from hence, That it is not the uncleanness of the Infant that gives it right to Baptism, but the true knowledge the Parent hath of this uncleanness, his own in the first place, and th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n of his Infants uncleanness issuing from him, wherewith he hath more then besmeared his Infant all over, within and without, but spec<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ally within; now if the Parent can give no reasonable account of this, he make<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> no more account of Baptism for his Child, then a dung<g ref="char:EOLhyphen"/>hill cock doth of a Jewel, or a swine doth of a Pearle; what regard hath he to a Fountain, that is in his own conceit neither <hi>unclean</hi> nor <hi>thirsty,</hi> though yet he will have water sprinkled upon his Child, for that is the manner of the Country; But we humbly conceive, as preposterous and as clean besides the rule, as if the Apostles should have baptized the Nations first, and then make them Disciples when they can, which is seldom or never done, where the righteous wayes of the Lord are p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rverted, and that great Ordinance and Appointment of God for conve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sion i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> sl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ghtingly stepped over, and those o<g ref="char:EOLhyphen"/>ther his Appointments for the support of his poor and meek ones, h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sted after and pressed unto, so that indeed they <hi>suffer violence,</hi> and the wicked would if they could, take them by force, were they not dealt forth unto them.</p>
+               <p>In the fourth place it is urged, why any more in distinction <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>4</label> here in admitting to Baptism, then there was among the Jews in admission to Circumcision; There was no difference be<g ref="char:EOLhyphen"/>twixt the precious and the vile.</p>
+               <p>To this we say, thrt surely there was a distinction; for as they were a National Church, so they had a National Disci<g ref="char:EOLhyphen"/>pline, whereof we heard, and what would be done, did it take place among us: there would not be such bearing up to the <hi>Font,</hi> nor pressing on to the <hi>Table</hi> by dogs and sw<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne. But we would adde this, there was a separation. The Leaper was <note place="margin">Lev. 13. 45.</note> to cry out <hi>uncl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>an, unclean,</hi> and to dwell alone, <hi>without the Camp must his habitation be.</hi> Y<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a <hi>while any mans unclean<g ref="char:EOLhyphen"/>ness</hi>
+                  <note place="margin">Numb. 5. 2, 3.</note>
+                  <hi>was upon him, he must not come to the Sanctuary,</hi> nor
+<pb n="28" facs="tcp:107211:16"/>
+                  <hi>deal in holy things;</hi> such care was taken for the keeping of the Sanctuary, clean from all bodyly and legal polutions; sure<g ref="char:EOLhyphen"/>ly it tells the Stewards in Gods house what they are to do. But we proceed, holding fast to our c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nclusion, from that which is premised, That Nominate Believers and Titular Di<g ref="char:EOLhyphen"/>sc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ples, and falsly called Saints are worse then Infidels, There<g ref="char:EOLhyphen"/>for can ple<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d no right to that publick seale of the Church-Baptism to their Children.</p>
+               <p>We c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nceive it may be said here; why should the Child suffer or b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> punished for the Parents sin? The <hi>Parent</hi> is worse then <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>5</label> an Infidel, what is th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t to the Child?</p>
+               <p>Very much say we as to these high matters. And indeed it looks like a judgement upon the Child to be born of a Pagan Parent, who never heard of Christ Jesus the Lord; But a greater judgement it is to be born of a Christian Paren<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in a <hi>land of vision<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> and yet so far from learning Christ to know Him, and to gain salvation by Him, that he turns his back up<g ref="char:EOLhyphen"/>on Him, maketh light of H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m, bids defi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nce to Him. <hi>That man shall not rule over him:</hi> Who then? any but he. A sore judgement to be born of such Parents. Yet we conceive the Insant suffers not, not doth the Parent, because he may not be admitted to Baptism, the publick seal of the Church, no more then that same Parent should suffer from the Church (give us leave to yeild you the name of a Church) <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f so be that <hi>ultimum<g ref="char:EOLhyphen"/>sulmen Ecclesiae,</hi> as we have heard <hi>Calvin</hi> calls <hi>Excommunication</hi> the last <hi>remedy</hi> and <hi>thunderbolt</hi> of the Church, be thunder<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d our against him in <hi>delivering him unto Satan,</hi> in stead of admitti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g him with his Infant to B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ptism; for though it may b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> called a Punishment, yet i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> no oth<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r sense then is a corro<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing playster to a wounded man, or the cutting off a part for the saving of the whole: the case requiring it, This hath a tendency to the greatest good that is imaginable, <hi>for the de<g ref="char:EOLhyphen"/>structi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n of the flesh, that the spirit may b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> saved in the day of the Lord:</hi> But this is our perswasion till we are farrher in<g ref="char:EOLhyphen"/>form'd: that the Infant hath no wrong, none at all, nor the Parent neither, but greatly righted are they both, if the Parent could see it, the Church refusing to set it<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> seal to a blank, and keeping off this foul and nasty creature (who delights in his fil<g ref="char:EOLhyphen"/>thiness
+<pb n="29" facs="tcp:107211:16"/> as the swine in the mire) from rushing upon this holy <hi>Name and Thing,</hi> having all his uncleanness upon him, but knows it not. Sacraments profaned through ignorance and p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ofanness the child of that darkness have as deadly a work up<g ref="char:EOLhyphen"/>on the s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ul, as the word o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>life</hi> hath, being tendered unto us and rejected of us. That is deadly poyson, and kills pre<g ref="char:EOLhyphen"/>sently, which is mingled with wine; It kills but no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> so pre<g ref="char:EOLhyphen"/>sently, being mingled with water. And therefore we crave leave to proceed in our Arguments, and then to Caution you, for so m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hope may be allowed o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r Godly jealousie, touching you, so mean though we are, and so much below you, seeing you declare your selfe to be of Mr. <hi>H.</hi> perswa<g ref="char:EOLhyphen"/>sion.</p>
+               <p>In the sixth place thus we argue from <hi>John</hi> the Baptists ex<g ref="char:EOLhyphen"/>am <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>6</label> le worthy our imitation sure, onely let it be remembred still, That we have to do with the Parents, not with the In<g ref="char:EOLhyphen"/>fants; Thus we rend, <hi>Many of the Pharisees and Sadduces came to his Baptism,</hi> the very best men in the Country and <note place="margin">Mat. 3.</note> Parish, both for learning and manners, the very cream and flower there, in common esteem as far exceeding your com<g ref="char:EOLhyphen"/>monly called Beleevers, D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sciples, and Saints, as a compleat Scholar doth an arrant Clown, or a neat Gentleman a Shep<g ref="char:EOLhyphen"/>herd; These compleated on<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s in their own eyes, and sight of others, come to <hi>Johns</hi> Baptisme, others are baptized by him, and why not they? And it is his very work and business. Now you can tell us what welcome they had, the very same, we think, those Pa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ents should have c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mming to present their tender Babes to Biptisme, when they themselves return to their <hi>folly,</hi> as the <hi>dog to its vomit. O generation of vipers,</hi> you are as full of poyson as any serpent is, and do you come to me with all this poyson within you and willing to ke<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p it there? <hi>O generation of vipers,</hi> do you come to be baptized into Christ, and are haters o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Christ, and anon after will be Murth<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of Him? <hi>O gener<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ion of vipert,</hi> dare you come to be wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hed in the blood of Christ, and know not in the least measure what that blood m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aneth, nor what meaneth your o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n blood; <hi>Th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Blood of Christ is our righteousness, our own blood is our wickedness or silthyness:</hi> you know none of
+<pb n="30" facs="tcp:107211:17"/> all this, and none will you know; what make you here? Besides the cu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tome of the contrary, you have this in your eye also, you think sometimes there is a <hi>wrath to come;</hi> In<g ref="char:EOLhyphen"/>deed there is: you think too, you can take Sanctuary at this Ordinance, and so shelter your selves from it, it shall not reach you: <hi>Toto talo erratis</hi> (if we may use the proverb) ye are heavenly wide, here, utterly mistaken, which being not cor<g ref="char:EOLhyphen"/>rected in time, will bring you to utter darkness anon. Bap<g ref="char:EOLhyphen"/>tism is but an <hi>imaginary Sanctuary;</hi> like the rich mans wealth, <hi>a strong City and an high Wall, all this but in his own con<g ref="char:EOLhyphen"/>ceit:</hi> It will no more shelter you from wrath (rather expose you more unto it) then can the <hi>caul</hi> of the <hi>heart</hi> defend the heart from the p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w of a Lyon, or a Bear robbed of her whelp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Nay assure your selves that as that gloriously strong, that Al<g ref="char:EOLhyphen"/>mighty <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>verlasting Arm, such as faithful people, who put no confidence in the flesh finde it to be, when fl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sh is shrunk up to nothing, underdeath everlasting A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ms, this Almighty Arm proves but a staff of a Reed, a very rottenness to every man that leanes to the Arm, while he cleaves to his sin: so is the Ordinance of Bap<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>isme (indeed such is every Ordinance leaned unto, for Christ is the onely <hi>lean to</hi> of His people) lea<g ref="char:EOLhyphen"/>ned upon, and run unto as a Sanctuary; there is no flying from the <hi>wrath to come</hi> in that way yeare in, not any means to escape it, but by flying to him, whose wrath it is, beseech<g ref="char:EOLhyphen"/>ing him for his great names sake to remove wrath, and to take you into his savour, after he hath given you repentance <hi>unto life,</hi> and <hi>faith in his dear Son.</hi> But be it known unto you, <note place="margin">Mat. 3. 6. Acts 19. 4.</note> that you be not mistaken in my office: I baptize none, no not one, that turns his back upon my Doctrine, <hi>preaching repen<g ref="char:EOLhyphen"/>tance:</hi> and I hear him first confessing his sins, not as your Confessors do barely, confessing their sins every day, and live in them every hour: I make him make proof thereof, that may satisfie a charitable judgement, that there is as much fire as will cause a <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, a little strength, as much as a bruised re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d hath. Assuring him there is no salvation without <hi>re<g ref="char:EOLhyphen"/>pentance toward God, and faith toward our Lord Jesus Christ.</hi> You have heard what <hi>John</hi> the Bagtist did—But we will adde nothing of our own in this place, for we consider as the man
+<pb n="31" facs="tcp:107211:17"/> is, such is his strength: and of such account are his words: you will, we doubt not, observe what <hi>John</hi> did, how little soever you observe us.</p>
+               <p>We pass on, and thus we reason from <hi>Mat.</hi> 7. 6. <hi>Give not</hi>
+                  <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>7</label>
+                  <hi>that which is holy unto the dogs, neither cast ye your Pearles before Swine.</hi> We humbly conceive, that this Scripture is not to be restrained to this or that Ord<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nance, but to be un<g ref="char:EOLhyphen"/>derstood of all Ordinances forbidden to be dispensed to such as are here call<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Dogs and Swine, excepting that Ordinance onely, which is able thorow God, of Dogs to make us Disci<g ref="char:EOLhyphen"/>ples, of Swine, Sheep: It is then, as we think you call it, one of your <hi>T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pick places,</hi> from the less to the greater: or a <hi>for<g ref="char:EOLhyphen"/>tiori.</hi> If the Pearles of Instruction are not to be given unto Dogs and Swin, that is, profane persons, men or women (two footed swine the worst swine) who hate the reprover in the Gate, will turn again and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent him, and trample his Pearl (whereof he is the Minister, <hi>and therefore called your Pearle,</hi> and <hi>their words)</hi> under their feet: If these Pearles <note place="margin">Joh. 17. 20.</note> must not be given to such unworthy ones as these: what war<g ref="char:EOLhyphen"/>rant have the Ministers of Christ to give forth this Seal of the Covenant, to Infants born of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>se Parents, who know no<g ref="char:EOLhyphen"/>thing of the Covenant, and nothing will they know, having made a Covenant with Death, and with Hell are they at a<g ref="char:EOLhyphen"/>greement. <note place="margin">Isa. 18. 15.</note>
+               </p>
+               <p>You shall say that we speak too rudely of your Beleevers, Disciples and Saints in likening them to Dogs and Swine, we crave leave to ask you this question, did you ever question them about it? if you say yes, then what was their Answer? were they Dogs and Swine, or were they not? I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> they say they were such (by Nature) but now are not such (by Grace) the word of his g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ace, together with the spirit of God and of glory hath converted them, and wrought a change in them, not of Actions onely, but of Natur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, then are we so far from calling them Dogs and Swine, that we call them the <hi>Excel<g ref="char:EOLhyphen"/>lent</hi> of the <hi>Earth,</hi> Beleevers indeed, Disc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ples and Saints in truth: onely you must not take th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir bare <hi>say so</hi> herein, but <note place="margin">Rev. 29.</note> bid them make it out, bid them speak, that you may see them, the truth of their words, in their works: <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey may say so,
+<pb n="32" facs="tcp:107211:18"/> and may blaspheam in so saying; But now if you shall say you never put them to this Question, you cannot think that they can be <hi>dog</hi> and <hi>swine,</hi> who were born in <hi>England</hi> and bap<g ref="char:EOLhyphen"/>tiz<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e; nor will you ever go about to make them think it to be so, being so incongruous and dis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>greeing <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o reason, and so contrary <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o our own Counsels; then you have omitted a ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n and principle duty (whereof anon) the discovering to them the <hi>horrid state</hi> of <hi>Nature;</hi> and that they are <hi>Dogs</hi> and <hi>Swine</hi> at pres<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt, if they never were such in their own ac<g ref="char:EOLhyphen"/>count and esteem, beholding themselves w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llowing l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke that <hi>cast out Infant,</hi> which represents all ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kind in their natural concl<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ion, <hi>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ts blood;</hi> or like un<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o a Carrion lying in a ditch <note place="margin">Ez. 16. Joh. 1. 5. 20.</note> under the power of a lust within <hi>in wickedness,</hi> an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that <hi>wick<g ref="char:EOLhyphen"/>ed one</hi> withou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Certain it is, if we never were in our ac<g ref="char:EOLhyphen"/>count, and as in our selves considered, Dogs and Swine, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n such as are at present Dogs and Swine, as sure as <hi>Pharaoh</hi> was a Dr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gon, <hi>H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rod</hi> a Fox, and <hi>Nero</hi> a Lyon; yea as sure as you have Dogs and Swine in your Pa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly cal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed so; But to put it out of doub, and that you may reselve your selfe therein, observe well how they deal with the <hi>Pearle,</hi> whether like Swine <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey trampl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it not under foot: and like D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>turn again</hi> end <hi>rent</hi> th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> dispensers of the same. There<g ref="char:EOLhyphen"/>fore we are where we were, and we have Scripture wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rant to keep those to it, as we conceive; if a Mini<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er must not cast his Pear<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, his Exortations before D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gs and Swine, which will but trample upon them, <hi>contradicting and blaspheming:</hi> Then must he not suffer the <hi>glorious treasure of the Church,</hi> where she findeth and whence she fe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th all that is needful, the <hi>Blood</hi> of <hi>God man,</hi> of the Lord J<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sus Christ, the founda<g ref="char:EOLhyphen"/>tion of the Covenan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, to b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> trampled under foot by Dogs and Swine, comming now to receive the seal <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hereof, for th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir In<g ref="char:EOLhyphen"/>fant, and to be sprinkled with it, if they had known where<g ref="char:EOLhyphen"/>fore they came.</p>
+               <p>VVe would argue this from that known place hinted before, <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>8</label>
+                  <hi>Mat.</hi> 28. 19. <hi>Go ye</hi> in the name of God and power of his <note place="margin">Mat. 28. 19.</note> might and <hi>teach all nations, baptizing them:</hi> that is, as you know much better then we, for we have it but by hear say, go ye and <hi>Disciple them,</hi> make them stoop to my teachings:
+<pb n="33" facs="tcp:107211:18"/> to submit and subject themselves to my <hi>Gospel,</hi> good tidings from Heaven, that all is peace there, and an attonement is made an accepted for all and every one, that is made obedient <hi>thereunto by word and deed, Go ye and Disciple them,</hi> that you know is the import of the word. Hence then we argue, That a Minister ought to <hi>Disciple</hi> the Parent first, before he doth baptize his Infant, that is, Indoctrinate him, in the knowledge of Christ crucified, made a Curse for him to redeem him from the curse of the Law, by the merit of his sufferings, and blood shed upon the Cross: this is to be done first (as we suppose, and our perswasion is) and he must be examined how this do<g ref="char:EOLhyphen"/>ctrine takes with him, what submission he gives thereunto, and whether his life be thereafter.</p>
+               <p>You will say, <hi>were these an heathen people, and never heard of the Gospel till now, then so I would do,</hi> Disciple <hi>them before I</hi> Baptize <hi>their infants; But now I suppose th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m</hi> Discipled <hi>already, and well Taught, Trained and Catechised Men and Women.</hi>
+               </p>
+               <p>With your savour and patience, who bid you suppose this? That these are <hi>Discipled</hi> already. <hi>Supposito quod non debet supponi obstruit operationem verbi,</hi> as we suppose you have heard, and your experience may tell it you every day. You will say again, <hi>We must put a vast difference betwixt Heathen Men and Christian Men.</hi>
+               </p>
+               <p>No indeed, not we, further then our Lord commands us. We are bold to ask you what difference? There are Heathen without the Gospel, here are H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>athen with the Gospel; what difference? There are a dark people, gross darkness co<g ref="char:EOLhyphen"/>vereth them, for the glorious Sun of the Gos<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>el never <hi>beam'd forth</hi> upon them. There are yet a darker people, as certainly a darker may be, dark as darkness it selfe, under the <hi>beamings forth</hi> of Gospel light; what difference? No such darkness as to be darkened with the Gospel light: To be an <hi>Egypt</hi> in <hi>Goshen,</hi> a <hi>Sodom</hi> in <hi>Jerusalem,</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Gomorrha</hi> in <hi>Judea:</hi> all amounts but to this, to be darkness in the midst of the light: To have light, and yet to act as men in the dark; To walk in darkness under Gospel light; to be night at that place and climate of Heaven, where the Sun of the Gospel is at her <hi>high
+<pb n="34" facs="tcp:107211:19"/> Noon:</hi> what difference? The Heathen are a dark people <hi>with<g ref="char:EOLhyphen"/>out light,</hi> These are a dark people <hi>with light;</hi> what difference? The Heath<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n sit in darkness, and in the shadow of death, and see no light, whereby to see their way to Christ, and in that estate they <hi>grope after God,</hi> and will be left inexcusable if they <note place="margin">Acts 17. 27.</note> find him not. These sit so too, but in the sight of light, the <hi>Sun</hi> of this Gospel shining round about them. O the dread<g ref="char:EOLhyphen"/>ful difference between these two strong Nations, the one dark without light, the other dark with light, and because they are in love with darkness, their deeds being evil, chasing <note place="margin">Joh. 3. 20. Job 24. 17.</note> the light from them, and so rebel against it: The fearful threat<g ref="char:EOLhyphen"/>ning of the Lord hath taken hold of these, which maketh the difference dreadful, <hi>Deut.</hi> 28. 29. thou <hi>shalt grope at noon day</hi> (when the light is double) as <hi>the blind gropeth in dark<g ref="char:EOLhyphen"/>ness.</hi> From this terrible judgement the Lord deliver us, It is visible upon your National Church.</p>
+               <p>Why? But these do profess well: yea, but observe, do they live well? We hope they do: yea, but you must have a ground for your hope, which you have of them, and have in your selfe. They say well, and give me <hi>good words,</hi> yea, but do they do well, and shew you their <hi>good deeds?</hi> They are visible Christians: It is much if they be so, but he that is a vi<g ref="char:EOLhyphen"/>sible Christian, barely so, and no more, may shortly cease to be so much <hi>as visible.</hi> Doubtless if he be Gold within, he is Silver without: his outside is good, but his infide is better, all glorious within, and see how he sparkleth without: If he be a <hi>light burning, he will be a light shining.</hi> There is a fire of zeal for God, and Christ, and Grace, and against all that is contrary to all this, and all this will appear in a conversation shining before Men. O dear Sir, look well to your <hi>Beleever,</hi> whether he hath faith or no: and to your <hi>Christian,</hi> whether he hath any Christ or no, unless a false one: and to your <hi>Di<g ref="char:EOLhyphen"/>sciple,</hi> whether he hath learnt of his Master, and what Profi<g ref="char:EOLhyphen"/>cient he is in <hi>his School:</hi> and to your <hi>Saint,</hi> whether he hath any more holiness but what you call <hi>Federal:</hi> He was born and baptized in <hi>E<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gland,</hi> and can make full proofe thereof, if need be from the Church Book: that is all.</p>
+               <p>Be we assured that such a Saint, that can hold forth his Saint<g ref="char:EOLhyphen"/>ship
+<pb n="35" facs="tcp:107211:19"/> no other way, but as aforesaid, will prove a Divel anon, if so be he be not one already. O remember what God doth conj<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yn, we must not dis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>joyn: We pray you Sir, put these questions unto him, before mentioned, we say these, because these properly relate to the resolution of the controversie be<g ref="char:EOLhyphen"/>tween us: as he answereth to these, and giveth you to un<g ref="char:EOLhyphen"/>derstand he hath a little more understanding then hath the Horse or the Mule; you may admit his Inf<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt, or you may forbear: the Lord wil instruct you to discretion, if you are not too resolved of your way, and will seek unto him: onely as we said, take not a single witness in these matters. We will argue the point no further, for there would be no end, and we see our papers fill ap<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: the Judge of all the World be Judge betwixt us, to His Judgement we appeal and must stand.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP, 5.</head>
+               <p>WE crave leave in the next place humbly, to give our opinion, about administring of Baptism, in a case of <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>1</label> more doubtful const<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uctio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> then is the former; for to us as you have read, there is no doubt at all. This is the case; whe<g ref="char:EOLhyphen"/>ther a Godly Minister wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>king with his people <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Gospel fel<g ref="char:EOLhyphen"/>lowship, may baptize the Infant of a godly Parent, in charity judged so to be, presenting it unto him, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not walking with him in the same Fellowship or Communion? We must take in here, what was hinted before, and withall the wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of ex<g ref="char:EOLhyphen"/>cellent <hi>Calvin</hi> we <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ade some mention of: we must distin<g ref="char:EOLhyphen"/>guish betwixt a <hi>Church in its Infancy, and at its full growth,</hi> which may al<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er the case a little: But this we humbly con<g ref="char:EOLhyphen"/>ceive, and so we give o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r opinion, That a godly Parent should not offer his Infant to a godly Minister to be baptized by him, while the Parent refuseth to walk with the said Minister in Gospel fellowship, according to the command of God, and rule of his word. Bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> keepeth aloof off, and apart from Gods people, giving no help unto them, but lieth scattered with o<g ref="char:EOLhyphen"/>thers, not a few like polished stones in the st<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eer, and hewen timber, which are proper materials for a house, yet make no
+<pb n="36" facs="tcp:107211:20"/> house, as to the form and fashion of it. Members must be conjoined and compacted before they make a body, Now he that wil withhold his help from the body (as he must needs do, who stands apart from it, will not join to it, and so give no more service to the body, then if he were farther off in the remotest parts of the world) we think it comely at the least, he should not offer his Child to be baptized by the said Minister, if he can have it done without scandal at another place. But if you Sir, or any of your brethren, be otherwise minded, it matters not, God will reveal to you and us, even this also; In the mean time think of us, as charity binds you, that we would not do any thing whereby to give the least of<g ref="char:EOLhyphen"/>fence to any Godly person; much more may be said to that was aforesaid, but it is not suitable to this place, and more un<g ref="char:EOLhyphen"/>sutable to the season.</p>
+               <p>In the last place, let it not argue boldness from us, but ten<g ref="char:EOLhyphen"/>derest love to you, and dear respect to our duty, while we <label type="milestone">
+                     <seg type="milestoneunit">§ </seg>2</label>
+                  <hi>Caution</hi> you in Gods name, and as you look to give up your account with joy, to consider the premises, and bid the peo<g ref="char:EOLhyphen"/>ple beware they do not take Baptism to be the <hi>form of a Church,</hi> for that is down right Popery, as you know full well (you may be an occasion of this before you are aware) But we pray you make your people to know it. We are all Papists by Nature, and carry a Pope in our bosome next the heart. And marvellously contented we are with a <hi>form,</hi> let<g ref="char:EOLhyphen"/>ting the <hi>power</hi> go not worth the looking after. Popery still, the very <hi>Dalilah,</hi> the dearly beloved of our Souls; do your utmost, we beseech you, to drive your people out of a <hi>form,</hi> they cleave as fast to it, as the flesh cleaves to them. And from glorying in empty names, which yeild empty comforts, in outward priviledges, having gained no inward grace by them; and from that vain boast, <hi>they have the meanes of grace,</hi> when wholly careless of ge<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ting grace by those means. We think they should not receive <hi>Baptism</hi> from your hands, who will not receive the <hi>word of his grace</hi> from your mouths. Tell them of<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en, as your duty we think is to do, what a dread<g ref="char:EOLhyphen"/>ful thing it is, <hi>to be dead while we live,</hi> living a <hi>natural life,</hi> and dead to a <hi>spiritual life,</hi> as all they are, that live in plea<g ref="char:EOLhyphen"/>sure
+<pb n="37" facs="tcp:107211:20"/> so pleasing to the flesh: Tell them what a dreadful thing it is to have <hi>titular sanctity,</hi> and <hi>real impiety;</hi> to have a <hi>name</hi> to <hi>live</hi> when <hi>they are doad.</hi> And may it please you to ground them well in the first principle of <hi>Catechism, Mans misery by</hi>
+                  <note place="margin">
+                     <hi>Dignitas in indigno, or<g ref="char:EOLhyphen"/>namentum in tuto, Sal.</hi> 392.</note>
+                  <hi>sin,</hi> and what <hi>lost Creatures</hi> they are without Christ. <hi>A<g ref="char:EOLhyphen"/>liens from the Common wealth of Israel, strangers from the Covenant of Promise: without hope</hi> grounded, sure and sta<g ref="char:EOLhyphen"/>ble; a hope <hi>well set,</hi> will <hi>settleus;</hi> a <hi>hope</hi> that is the Saints <hi>Anchor-hold,</hi> without such a hope, without <hi>God in the World;</hi> And charge them not to rest upon a Christ without them, and to be restless in their spirits, till they have a Christ within them. Teach them to know the infinite evil that is in sin, so may they know the infinite good that is in a Christ, and of forgiveness through the <hi>merit</hi> of his <hi>blood.</hi> Tell them that sin known and felt to be above measure sinful, renders Christ and all with Him in full measure welcome, altogether <hi>lovely</hi> or <hi>desirous.</hi> Make them understand their <hi>filthiness,</hi> and you need not bid them <hi>wash and be clean;</hi> The fountain of <note place="margin">Cant. 5. 6.</note> Christs blood is as welcome to the <hi>filthy soul</hi> that knows it selfe such, as it is to the <hi>thirsty</hi> soul, that feels his need; give him Christ or else he dyes. And in the last place, make them but know themselves to be <hi>Dogs</hi> and <hi>Swine</hi> (for man is such a very beast, a <hi>Behemoth,</hi> a great beast, that he knows not himselfe to be a beast) but when he k<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ows it, he can no more endure to remain in that State, then a Sheep in that m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re wher<g ref="char:EOLhyphen"/>in it is fallen: or return to it, being once delivered from it, then he can return to take up his own <hi>vomit,</hi> or to wallow in the mire with his best cloaths. O he would not for a world be delivered to the hands of his old Master again, as that poor one said. Surely <hi>Luthers</hi> words upon the first word of <hi>Psal.</hi> 14. command our observation, <hi>The whole world lying in evil, is that Nabal, that fool, that vile one.</hi> And there we lay all, being <hi>children born under wrath as were others,</hi> till an Almighty hand plucked us thence, and free grace made the difference. We question much whether your Disciples and Saints born, such are acquainted with this. You shal do wel to conside<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> on it, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ter du<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> consideration in<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orm them a<g ref="char:EOLhyphen"/>bout it. So w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> draw towards a conclusion; You see how
+<pb n="38" facs="tcp:107211:21"/> our love works to wards you; it loves to be adding; and this more, we beseech you be resolved from the Parent before you baptize his Infant, what <hi>Baptism</hi> is? What it seales to? and then what the <hi>Covenant</hi> is? and what is intendment in tendering his Child thereunto? We doubt not but you will find Scripture grounds for all this, which will bind you to make this <hi>inquisition,</hi> which likely you will find as trouble<g ref="char:EOLhyphen"/>some to them, as would be the bloody <hi>Inquisition,</hi> you know whe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e. For these Doctrines are unpleasing to flesh and blood, a very torment unto it; it may lose you the hearts of the most and best in your Parish, in the worlds account; yet in<g ref="char:EOLhyphen"/>deed not worthy your account, but it will gain, by Gods bles<g ref="char:EOLhyphen"/>sing, some hearts to God, and so further your account at the great day, for so may you shew your self <hi>wise,</hi> and shine in due time as the b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ightness <hi>of the firmament,</hi> and <hi>turning many to righteousness, as the Stars, for ever and ever, Amen.</hi> More we could say to this matter, unto you, but we will speak it for you in our Closet, and doubt not but all the godly Mi<g ref="char:EOLhyphen"/>nisters and people in the Land that are walking together in the way of holiness will pray for you, and your Brethren of the same perswasion with you, working in a way broad enough for a <hi>Believer withou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> faith,</hi> a <hi>Christian without Christ,</hi> a <hi>Saint without holiness</hi> to walk in, and never offend the fl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sh: Indeed you have need of the prayer of these, who can <hi>pray in prayer,</hi> who will never cease praying till all the godly in the Land may mind one thing, and walk in one way; which un<g ref="char:EOLhyphen"/>speakable mercy, He that is the hearer of prayers, grant unto his people for his own Name sake, <hi>Amen.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:107211:21"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
